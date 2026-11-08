@@ -1,0 +1,17 @@
+# Kuku's scripts are confidential. Nothing derived from them may reach a public repository.
+data/*
+!data/README.md
+!data/aliases.example.json
+outputs/*
+!outputs/README.md
+docs/*.pdf
+docs/manual_review.md
+docs/walkthrough_script.md
+scripts/build_solution_pdf.py
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.streamlit/secrets.toml
+.env

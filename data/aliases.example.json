@@ -1,0 +1,9 @@
+{
+  "aliases": {
+    "THE MASKED STRANGER": "VICTOR",
+    "LADY MARA": "MARA"
+  },
+  "episode_aliases": {
+    "OLD MAN": { "2": "MARA'S FATHER", "9": "THE MAGISTRATE" }
+  }
+}
